@@ -1,0 +1,6 @@
+# Node.js dependencies
+node_modules/
+
+# React build output
+build/
+client/react-app/build/
